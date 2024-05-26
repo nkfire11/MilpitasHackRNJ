@@ -984,10 +984,6 @@ section,
   font-weight: 700;
   color: color-mix(in srgb, var(--default-color), transparent 40%);
 }
-
-/*--------------------------------------------------------------
-# Services Section
---------------------------------------------------------------*/
 .services .service-item {
   position: relative;
   padding-top: 40px;
@@ -1061,10 +1057,6 @@ section,
   line-height: 24px;
   font-size: 14px;
 }
-
-/*--------------------------------------------------------------
-# Features Section
---------------------------------------------------------------*/
 .features .features-item {
   color: color-mix(in srgb, var(--default-color), transparent 20%);
 }
@@ -1162,11 +1154,6 @@ section,
   z-index: 2;
 }
 
-
-
-/*--------------------------------------------------------------
-# Faq Section
---------------------------------------------------------------*/
 .faq .content h3 {
   font-weight: 400;
   font-size: 34px;
@@ -1252,9 +1239,7 @@ section,
   color: var(--accent-color);
 }
 
-/*--------------------------------------------------------------
-# Team Section
---------------------------------------------------------------*/
+
 .team {
   --background-color: #f4f4f4;
 }
@@ -1337,9 +1322,7 @@ section,
   opacity: 1;
 }
 
-/*--------------------------------------------------------------
-# Call To Action Section
---------------------------------------------------------------*/
+
 .call-to-action {
   --background-color: #000000;
   --default-color: #ffffff;
@@ -1402,9 +1385,7 @@ section,
   border: 2px solid var(--accent-color);
 }
 
-/*--------------------------------------------------------------
-# Contact Section
---------------------------------------------------------------*/
+
 .contact .info-item {
   background: color-mix(in srgb, var(--default-color), transparent 96%);
   padding: 30px;
@@ -1523,9 +1504,6 @@ section,
 }
 
 
-/*--------------------------------------------------------------
-# Service Details Section
---------------------------------------------------------------*/
 .service-details .service-box {
   padding: 20px;
   box-shadow: 0px 2px 20px color-mix(in srgb, var(--default-color), transparent 88%);
@@ -1653,16 +1631,9 @@ section,
   color: var(--accent-color);
 }
 
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
 
-/*--------------------------------------------------------------
-# Widgets
---------------------------------------------------------------*/
+
+
 .widgets-container {
   padding: 30px;
   margin: 60px 0 30px 0;
